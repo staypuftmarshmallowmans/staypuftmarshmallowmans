@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Wallpaper]([https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man#/media/File:Mr._Stay-Puft_Marshmallow_Man.png](https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man#/media/File:Mr._Stay-Puft_Marshmallow_Man.png))]([[https://github.com/dinosoid](https://github.com/staypuftmarshmallowmans/staypuftmarshmallowmans)](https://github.com/staypuftmarshmallowmans/staypuftmarshmallowmans))
+[![Wallpaper]([https://upload.wikimedia.org/wikipedia/en/0/01/Mr._Stay-Puft_Marshmallow_Man.png](https://upload.wikimedia.org/wikipedia/en/0/01/Mr._Stay-Puft_Marshmallow_Man.png))]([[https://github.com/staypuftmarshmallowmans](https://github.com/staypuftmarshmallowmans/staypuftmarshmallowmans)](https://github.com/staypuftmarshmallowmans/staypuftmarshmallowmans))
